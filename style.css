@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+.lp:hover{
+   transform: translateX(358px);
+   transition: 3s ease-out;
+}
+
+
+.lpf:hover{
+  transform: translateX(-358px);  
+  transition: 3s ease-out;
+}
+
+.lpf{
+    display: flex;
+    justify-content: end;
+}
